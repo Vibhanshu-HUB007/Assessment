@@ -1,4 +1,4 @@
-fastapi
-uvicorn
-sentence-transformers
-torch
+fastapi==0.110.0
+uvicorn==0.27.0
+sentence-transformers==2.2.2
+torch>=1.13.1
